@@ -6,6 +6,7 @@
 body{
     background-color: #eee;
     font-family: 'Lato', sans-serif;
+    width: 100%;
 }
 #header{
     display: flex;
@@ -173,4 +174,16 @@ ul {
     justify-content: space-around;
     align-items: flex-end;
     gap: 20px;
+}
+p{
+    font-size: 1em;
+}
+@media screen and (max-width:710px){
+    body{
+        height: auto;
+        width: 100%;
+
+    }
+    
+
 }
