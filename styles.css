@@ -106,3 +106,9 @@ iframe {
     max-width: 560px;
     width: 100%;
 }
+.nav-link:hover{
+    width: 10px;
+    height: 10px;
+     
+    
+}
