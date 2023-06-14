@@ -70,10 +70,10 @@ form{
     border: 0.7px solid black;
 
 }
-ul{
+header> ul{
     display: flex;
     width: 35vw;
-    justify-content: space-around;
+    justify-content: space-around   ;
 }
 li{
     list-style: none;
