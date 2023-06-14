@@ -10,7 +10,7 @@ body{
 #header{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     height: 80px;
     background-color: #eee;
     position: fixed;
@@ -125,6 +125,7 @@ iframe {
     flex-direction: row;
     justify-content: space-around;
     border-color: black;
+    margin-top: 50px;
 }
 .classes{
     display: flex;
@@ -147,4 +148,12 @@ iframe {
     text-align: center;
     padding: 5px;
     margin-bottom: 10px;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    width: 100%;
+    align-items: flex-end;
+    margin-top: 30px;
 }
