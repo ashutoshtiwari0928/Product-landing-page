@@ -14,6 +14,10 @@ body{
     height: 80px;
     
 }
+a{
+    text-decoration: none;
+    color: black;
+}
 #logo{
     width: 60vh;
     flex-grow: 2  ;
@@ -90,5 +94,8 @@ h2{
     flex-direction: column;
     /* align-items: center; */
     justify-content: center;
+    
+}
+#How-it-works{
     
 }
