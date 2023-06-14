@@ -99,6 +99,6 @@ h2{
 #How-it-works{
     margin-top: 20px;
     display: flex;
-    justify-items: center;
+    justify-content: center;
     align-items: center;
 }
