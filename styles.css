@@ -70,7 +70,7 @@ form{
     border: 0.7px solid black;
 
 }
-header> ul{
+#nav-bar> ul{
     display: flex;
     flex-direction: row;
     width: 35vw;
