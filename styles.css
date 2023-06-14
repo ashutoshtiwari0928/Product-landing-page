@@ -160,7 +160,8 @@ footer {
     background-color: #ddd;
     padding: 20px;
 }
-footer>ul{
+footer > ul{
     display: flex;
+    flex-direction: row;
     justify-content: flex-end;
 }
